@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:16:1-47:12
+INJECTED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:16:1-47:12
+INJECTED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:16:1-47:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\d598c18f3fe04ccea2a85c33a192fb75\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\04085b0dbea03ccf36dcda71fc7886ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\a60b7cdebb0d9db17dd9836ce114ca16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\0f76228025536c81894e96d795c88ae6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\08db03861c73bc48b91c4dec292a8cb0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\4432aec0b769299023448efbf420841d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\e658296f18779fa71085c246a6bafe98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\e3085bf51623663a9814a6047f9866a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\eae27549afd95c24f82cfcf06918198a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\5181de6e7d6587d8909f78fcc64967e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\6279548f93e9aeeb8487a559d7efa33a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\31f2e1ba9625399f64924f295bfdc4f8\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:16:1-47:12
+INJECTED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:16:1-47:12
+	package
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:16:11-58
+	android:versionName
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:18:5-51
+	xmlns:android
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:17:5-63
+	android:versionCode
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:22:5-74
+	android:name
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:22:22-71
+application
+ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:24:5-46:19
+	android:supportsRtl
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:27:9-49
+	tools:ignore
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:30:9-48
+	android:icon
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:29:9-53
+activity#com.example.android.fingerprintdialog.MainActivity
+ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:34:13-53
+	android:theme
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:35:13-69
+	android:name
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:33:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:38:27-74
+activity#com.example.android.fingerprintdialog.SettingsActivity
+ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:42:9-45:57
+	android:parentActivityName
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:45:13-55
+	android:label
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:44:13-52
+	android:name
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml:43:13-45
+uses-sdk
+INJECTED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\d598c18f3fe04ccea2a85c33a192fb75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\d598c18f3fe04ccea2a85c33a192fb75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\04085b0dbea03ccf36dcda71fc7886ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\04085b0dbea03ccf36dcda71fc7886ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\a60b7cdebb0d9db17dd9836ce114ca16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\a60b7cdebb0d9db17dd9836ce114ca16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\0f76228025536c81894e96d795c88ae6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\0f76228025536c81894e96d795c88ae6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\08db03861c73bc48b91c4dec292a8cb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\08db03861c73bc48b91c4dec292a8cb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\4432aec0b769299023448efbf420841d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\4432aec0b769299023448efbf420841d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\e658296f18779fa71085c246a6bafe98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\e658296f18779fa71085c246a6bafe98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\e3085bf51623663a9814a6047f9866a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\e3085bf51623663a9814a6047f9866a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\eae27549afd95c24f82cfcf06918198a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\eae27549afd95c24f82cfcf06918198a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\5181de6e7d6587d8909f78fcc64967e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\5181de6e7d6587d8909f78fcc64967e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\6279548f93e9aeeb8487a559d7efa33a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\6279548f93e9aeeb8487a559d7efa33a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\31f2e1ba9625399f64924f295bfdc4f8\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\vuvan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\31f2e1ba9625399f64924f295bfdc4f8\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vuvan\Downloads\android-FingerprintDialog-master\Application\src\main\AndroidManifest.xml
